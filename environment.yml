@@ -7,6 +7,6 @@ dependencies:
   - pip
   - notebook
   - pip:
-      - --index-url https://pypi.tuna.tsinghua.edu.cn/simple
-      - paddle-quantum==2.6.0
+      - paddlepaddle==2.6.2
+      - paddle-quantum==2.4.0
       - matplotlib
