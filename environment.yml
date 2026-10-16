@@ -7,5 +7,4 @@ dependencies:
   - pip
   - notebook
   - pip:
-      - paddlepaddle==2.3.0
-      - paddle-quantum==2.4.0
+      - paddlepaddle==2.6.2
