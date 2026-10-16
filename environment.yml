@@ -7,5 +7,7 @@ dependencies:
   - pip
   - notebook
   - pip:
-      - paddlepaddle==2.6.2
+      - --index-url https://pypi.tuna.tsinghua.edu.cn/simple
+      - paddlepaddle==2.3.0
+      - protobuf==3.20.0
       - paddle-quantum==2.4.0
