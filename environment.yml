@@ -8,5 +8,3 @@ dependencies:
   - notebook
   - pip:
       - paddlepaddle==2.6.2
-      - paddle-quantum==2.4.0
-      - matplotlib
