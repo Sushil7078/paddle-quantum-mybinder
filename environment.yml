@@ -7,4 +7,5 @@ dependencies:
   - pip
   - notebook
   - pip:
-      - paddlepaddle==2.6.2
+      - paddlepaddle==2.3.0
+      - protobuf==3.20.1
